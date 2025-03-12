@@ -1,5 +1,4 @@
 #include "stdint.h"
-#include "time.h"
 
 char* vidptr = (char*)0xB8000;
 
